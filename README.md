@@ -1,5 +1,10 @@
 # CyberSafe Hub – Protecting Digital India
 
+## 🔗 Live Demo
+
+Check out CyberSafe Hub live: [CyberSafe Hub Live Demo](https://aliyabegum30.github.io/CyberSafe-Hub/)
+
+
 **CyberSafe Hub** is an educational and interactive web platform created to raise awareness about cyber threats, online frauds, and digital safety in India. The platform is designed for students, professionals, and general internet users to understand risks and learn preventive measures.
 
 ---
