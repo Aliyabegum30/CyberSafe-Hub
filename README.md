@@ -35,3 +35,25 @@ Check out CyberSafe Hub live: [CyberSafe Hub Live Demo](https://aliyabegum30.git
 
 ## 📁 Repository Structure
 
+CyberSafe-Hub/
+├── index.html # Main homepage file
+├── css/ # Stylesheets
+├── js/ # Scripts (sliders, animations)
+├── assets/ # Images, logos, icons
+│ └── logo.png
+
+
+---
+
+## 🖼️ Screenshots
+
+**Hero Section**
+![Herosection](Screenshots/Herosection.png)
+
+**Cybercrime Snapshot**
+![CyberCrime-Snapshot](Screenshots/CyberCrime-Snapshot.png)
+
+**Frauds & Scams Section**
+![Frauds & Scams](Screenshots/Frauds&Spams-section.png)
+
+
